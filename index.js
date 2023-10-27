@@ -1,4 +1,4 @@
-let titles = ['♱| ...',' ♱| B..',' ♱| BH.♱','♱|BHC♱']
+let titles = ['♱| ...',' ♱| B..',' ♱| BH.','♱|BHC']
 let index = 0
 let interval = setInterval(() => {
     document.title = titles[index]
